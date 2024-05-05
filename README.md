@@ -13,9 +13,9 @@
 
 ### Ответ:
 
-![Скриншот 1]()
+![Скриншот 1](https://github.com/PugachEV72/Images/blob/master/2024-05-05_10-43-18.png)
 
-[Ссылка на Deployment]()
+[Ссылка на Deployment](https://github.com/PugachEV72/kuber-homeworks-2.1/blob/main/exchange-deployment.yaml)
 
 ---
 
@@ -28,8 +28,8 @@
 
 ### Ответ:
 
-![Скриншот 2]()
+![Скриншот 2](https://github.com/PugachEV72/Images/blob/master/2024-05-05_10-51-16.png)
 
-[Ссылка на DaemonSet]()
+[Ссылка на DaemonSet](https://github.com/PugachEV72/kuber-homeworks-2.1/blob/main/daemon-multi.yaml)
 
 ---
